@@ -1,0 +1,14 @@
+# Emacs autosave files
+*[#]*
+[#]*[#]*
+
+*.class
+.classpath
+.project
+.settings/
+target/
+target
+*.pmd
+.idea
+*.iml
+.metadata/
